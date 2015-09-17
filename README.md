@@ -17,5 +17,5 @@ Running App.
 You need to run the AppConfig.java which has spring Boot Application runner.
 
 Some of the sample post request jsons are 
-{"id":"55f73676005d21e7adee3313","name":"Tweety44","family":"f223","continents":["North America","Latin","Asia"],"added":"Tue Sep 15 02:30:08 IST 2015","visible":true}
+{"name":"Tweety44","family":"f223","continents":["North America","Latin","Asia"],"added":"Tue Sep 15 02:30:08 IST 2015","visible":true}
 
