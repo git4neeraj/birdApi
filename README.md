@@ -16,6 +16,8 @@ Running App.
 -----------
 You need to run the AppConfig.java which has spring Boot Application runner.
 
+Application runs at http://localhost:8080/birds
+
 Some of the sample post request jsons are 
 {"name":"Tweety44","family":"f223","continents":["North America","Latin","Asia"],"added":"Tue Sep 15 02:30:08 IST 2015","visible":true}
 
